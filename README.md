@@ -1,2 +1,2 @@
 # Gmail-Ofline
-Here Gmail Ofline is an Stp project
+Here Gmail Ofline is an Standalone project
